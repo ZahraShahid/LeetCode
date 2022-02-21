@@ -1,5 +1,5 @@
-//Returns Indices of two elements that add upto the target given and an array of numbers
-// @see https://leetcode.com/problems/two-sum/
+// Returns Indices of two elements that add upto the target given and an array of numbers
+// https://leetcode.com/problems/two-sum/
 
 class Solution {
 public:
